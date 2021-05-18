@@ -1,0 +1,24 @@
+body {
+	background-image: url("bg.svg");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+/* }
+.square {
+	width: 300px;
+	height: 300px;
+	margin: 25px;
+	-ms-transform: rotate(-45deg);
+	-webkit-transform: rotate(-45deg);
+	transform: rotate(-45deg);
+	overflow: hidden;
+}
+.pic {
+	background: url("../Layout/jai.jpeg");
+	width: 350px;
+	height: 350px;
+	margin: -25px;
+	-ms-transform: rotate(45deg);
+	-webkit-transform: rotate(45deg);
+	transform: rotate(45deg);
+} */
